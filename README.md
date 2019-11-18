@@ -11,5 +11,6 @@
 
 
 
+![alt_text](rendering_continuity.png)
 
 ![alt text](MiramontesQRcode.png)
